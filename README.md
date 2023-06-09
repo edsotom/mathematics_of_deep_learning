@@ -9,9 +9,9 @@ The four jupyter notebooks are:
   <li><a href='https://github.com/edsotom/mathematics_of_deep_learning/blob/master/eigen_faces.ipynb' target='_blank'>Eigenfaces</a>: an implementation of the principal component analysis algorithm (PCA) on a face image dataset.
 </ul>
 
-The study paper was "Mathematics of Deep Learning" by Rene Vidal, Joan Bruna, Raja Giryes and Stefano Soatto. The self group study cover a review of the paper divided in three parts:
+The chosen paper was "Mathematics of Deep Learning" by Rene Vidal, Joan Bruna, Raja Giryes and Stefano Soatto. The group study involves a review of the paper divided into three parts:
 <ul>
   <li><a href='https://github.com/edsotom/mathematics_of_deep_learning/blob/master/theoric_article_presentation/Mathematics_of_Deep_Learning_ppt.pdf' target='_blank'>Presentation</a>: used to explain the main ideas of the paper to our classmates in a formal presentation.<br>
-  <li><a href='https://github.com/edsotom/mathematics_of_deep_learning/blob/master/theoric_article_presentation/Mathematics_of_Deep_Learning_report.pdf' target='_blank'>Report</a>: article style documment to compile the review grouo study.<br>
-  <li><a href='https://www.youtube.com/watch?v=IqzyhTxIZ0s&ab_channel=MayraVega' target='_blank'>Ressume Video</a>: same objective as the presentation but in video. 
+  <li><a href='https://github.com/edsotom/mathematics_of_deep_learning/blob/master/theoric_article_presentation/Mathematics_of_Deep_Learning_report.pdf' target='_blank'>Report</a>: article-style documment to compile the review group study.<br>
+  <li><a href='https://www.youtube.com/watch?v=IqzyhTxIZ0s&ab_channel=MayraVega' target='_blank'>Ressume Video</a>: same objective as the presentation but in video format. 
 </ul>
