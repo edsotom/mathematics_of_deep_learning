@@ -13,5 +13,5 @@ The study paper was "Mathematics of Deep Learning" by Rene Vidal, Joan Bruna, Ra
 <ul>
   <li><a href='https://github.com/edsotom/mathematics_of_deep_learning/blob/master/theoric_article_presentation/Mathematics_of_Deep_Learning_ppt.pdf' target='_blank'>Presentation</a>: used to explain the main ideas of the paper to our classmates in a formal presentation.<br>
   <li><a href='https://github.com/edsotom/mathematics_of_deep_learning/blob/master/theoric_article_presentation/Mathematics_of_Deep_Learning_report.pdf' target='_blank'>Report</a>: article style documment to compile the review grouo study.<br>
-  <li><a href='https://www.youtube.com/watch?v=IqzyhTxIZ0s&ab_channel=MayraVega' target='_blank'>Ressume Video</a>: same ideas as the presentation but in video. 
+  <li><a href='https://www.youtube.com/watch?v=IqzyhTxIZ0s&ab_channel=MayraVega' target='_blank'>Ressume Video</a>: same objective as the presentation but in video. 
 </ul>
